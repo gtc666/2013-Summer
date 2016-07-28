@@ -1,1 +1,2 @@
-# 2013-Summer
+# 2013-Summer 
+Social Graph Simulation and Analysis(Python)
